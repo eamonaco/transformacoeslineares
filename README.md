@@ -18,7 +18,7 @@
 
 ## Funções Principais
 
-### `pontos()
+### `pontos()`
 
 - Função que solicita ao usuário inserir as coordenadas de quatro pontos no plano 2D e retorna uma lista de vértices. Esses vértices são usados dentro das funções que aplicam as transformações, para facilitar a leitura do código.
 
@@ -51,7 +51,7 @@
 #### Linux
 
 - Entre no terminal, vá até o diretório do arquivo e digite:
-	`python3 main.py
+	`python3 main.py`
 
 #### Windows
 
