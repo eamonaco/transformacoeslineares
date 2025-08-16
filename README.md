@@ -59,7 +59,8 @@
 
 ## Dependências
 
-- Python 3.10
-- NumPy
-- Matplotlib
-- Math
+- python 3.10
+- numpy
+- matplotlib
+- math
+- python-tk
