@@ -192,7 +192,7 @@ def show_polygon(original_points, transformed_points, title):
     ax.grid(True)
 
     # Use plt.show(block=False) para prevenir o block do usuário
-    plt.show(block=False)
+    plt.show(block=True)
     
 # Função da lógica principal do programa.
 def main():
